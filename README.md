@@ -1,2 +1,0 @@
-# kalerbram
-My personal website
